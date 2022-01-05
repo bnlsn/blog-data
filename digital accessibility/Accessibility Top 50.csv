@@ -1,0 +1,50 @@
+Ranking,Website,Category,Subcategory,URL,Errors,Contrast Errors,Accessibility Statement
+1,Google,Computers Electronics and Technology,Search Engines,google.com,1,7,No Statement
+2,Youtube,Arts and Entertainment,TV Movies and Streaming,youtube.com,25,1,No Statement
+3,Facebook,Computers Electronics and Technology,Social Networks and Online Communities,facebook.com,2,45,No Statement
+4,Amazon,E commerce and Shopping,Marketplace,amazon.com,3,2,No Statement
+5,Yahoo,News and Media,News and Media,yahoo.com,50,49,No Statement
+6,Twitter,Computers Electronics and Technology,Social Networks and Online Communities,twitter.com,0,5,Statement
+7,Wikipedia,Reference Materials,Dictionaries and Encyclopedias,wikipedia.com,8,0,No Statement
+8,Instagram,Computers Electronics and Technology,Social Networks and Online Communities,instagram.com,0,25,No Statement
+9,Reddit,Computers Electronics and Technology,Social Networks and Online Communities,reddit.com,11,100,No Statement
+10,Discord,Computers Electronics and Technology,Social Networks and Online Communities,discord.com,1,4,No Statement
+11,Xvideos,Adult,Adult,xvideos.com,100,0,No Statement
+12,Netflix,Arts and Entertainment,TV Movies and Streaming,netflix.com,3,1,No Statement
+13,Ebay,E commerce and Shopping,Marketplace,ebay.com,1,2,Statement
+14,xnxx,Adult,Adult,xnxx.com,161,0,No Statement
+15,PornHub,Adult,Adult,pornhub.com,65,206,No Statement
+16,Walmart,E commerce and Shopping,Marketplace,walmart.com,48,8,No Statement
+17,Office,Computers Electronics and Technology,Programming and Developer Software,office.com,1,3,Statement
+18,ESPN,Sports,Sports,espn.com,221,123,No Statement
+19,DuckDuckGo,Computers Electronics and Technology,Search Engines,duckduckgo.com,24,25,No Statement
+20,Live,Computers Electronics and Technology,Email,live.com,0,5,No Statement
+21,Bing,Computers Electronics and Technology,Search Engines,bing.com,10,14,No Statement
+22,Instructure,Science and Education,Education,instructure.com,25,21,No Statement
+23,CNN,News and Media,News and Media,cnn.com,10,1,No Statement
+24,LinkedIn,Computers Electronics and Technology,Social Networks and Online Communities,linkedin.com,27,1,Statement
+25,Zoom,Computers Electronics and Technology,Computers Electronics and Technology,zoom.us,7,3,Statement
+27,MSN,News and Media,News and Media,msn.com,39,6,No Statement
+28,Roblox,Games,Video Games Consoles and Accessories,roblox.com,6,0,Statement
+29,Etsy,E commerce and Shopping,Marketplace,etsy.com,4,0,No Statement
+30,Pinterest,Computers Electronics and Technology,Social Networks and Online Communities,pinterest.com,2,0,No Statement
+31,Fox News,News and Media,News and Media,foxnews.com,49,7,Statement
+32,The Weather Channel,Science and Education,Weather,weather.com,2,0,Statement
+33,Target,E commerce and Shopping,Marketplace,target.com,2,12,Statement
+34,Craigslist,E commerce and Shopping,Classifieds,craigslist.org,1,1,No Statement
+35,Worldstar,Arts and Entertainment,Music,worldstar.com,10,19,No Statement
+36,Accuweather,Science and Education,Weather,accuweather.com,4,41,No Statement
+37,New York Times,News and Media,News and Media,nytimes.com,6,15,Statement
+38,Paypal,Finance,Banking Credit and Lending,paypal.com,0,1,Statement
+39,Tiktok,Computers Electronics and Technology,Social Networks and Online Communities,tiktok.com,7,8,No Statement
+40,Twitch,Games,Video Games Consoles and Accessories,twitch.tv,3,0,Statement
+41,Fandom,Arts and Entertainment,Arts and Entertainment,fandom.com,14,36,No Statement
+42,T-Mobile,Computers Electronics and Technology,Telecommunications,t-mobile.com,8,29,Statement
+43,xhamster,Adult,Adult,xhamster.com,7,8,No Statement
+44,Zillow,Business and Consumer Services,Real Estate,zillow.com,2,0,Statement
+45,USPS,Business and Consumer Services,Shipping and Logistics,usps.com,6,13,No Statement
+46,Best Buy,Computers Electronics and Technology,Consumer Electronics,bestbuy.com,1,9,Statement
+47,Indeed,Jobs and Career,Jobs and Employment,indeed.com,1,0,Statement
+48,Hulu,Arts and Entertainment,TV Movies and Streaming,hulu.com,19,26,Statement
+49,Home Depot,Home and Garden,Home and Garden,homedepot.com,55,23,No Statement
+50,AOL,Computers Electronics and Technology,Computers Electronics and Technology,aol.com,10,24,Statement
